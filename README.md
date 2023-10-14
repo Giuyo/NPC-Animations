@@ -1,5 +1,5 @@
 # NPC Animations 0.0.1 (Burning Water)
-Animate your ROBLOX NPC for your game (in a easy way!)
+Animate your ROBLOX NPC for your game (in an easy way!)
 https://create.roblox.com/marketplace/asset/15028306221/NPC-Animator-Burning-Water
 
 # Code
