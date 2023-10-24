@@ -18,7 +18,4 @@ animation.Enabled = true
 # Versions
 0.0.1 (Last release)
 https://create.roblox.com/marketplace/asset/15028306221/NPC-Animator-Burning-Water
-Features:
-- Easy Animating with ROBLOX
-Functions:
 - newAnimScript()
